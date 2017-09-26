@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+# INO FILES ( from arduino IDE)
+*.ino
